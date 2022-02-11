@@ -1,2 +1,3 @@
 # wz-tschiits
-Such wow
+
+git gud
